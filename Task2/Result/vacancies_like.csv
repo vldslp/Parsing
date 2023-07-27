@@ -1,0 +1,6 @@
+_id;Vacancy_id;Vacancy_name;Vacancy_url;Salary_min;Salary_max;Salary_cur;Employer_name;Employer_url;Employer_city
+64c27b1d80c947305bfdb441;83676636;Программист Python/Data Scientist (junior / middle);https://hh.ru/vacancy/83676636;70000;150000;₽;ООО Апэрбот;https://hh.ru/employer/4602050?hhtmFrom=vacancy;Новосибирск
+64c27b1d80c947305bfdb442;83744616;Программист - Data Scientist;https://hh.ru/vacancy/83744616;70000;120000;₽;ООО АКСАЛИТ Софт;https://hh.ru/employer/3211436?hhtmFrom=vacancy;-
+64c27b1d80c947305bfdb443;83041801;Data Scientist Junior/Junior computer vision engineer;https://hh.ru/vacancy/83041801;50000;100000;₽;Comexp;https://hh.ru/employer/675403?hhtmFrom=vacancy;Нижний Новгород
+64c27b1d80c947305bfdb45d;83983983;Data scientist;https://hh.ru/vacancy/83983983;80000;80000;₽;ООО Вотер-Про;https://hh.ru/employer/5957103?hhtmFrom=vacancy;-
+64c27b1d80c947305bfdb51a;81621934;Аналитик данных с навыками Python (data scientist);https://hh.ru/vacancy/81621934;80000;80000;₽;ООО Кондитерское производство Меренга;https://hh.ru/employer/1529534?hhtmFrom=vacancy;Кострома
