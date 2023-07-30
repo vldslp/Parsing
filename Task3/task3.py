@@ -47,8 +47,8 @@ print(vacancys.find({'Vacancy_id': 8396403}))
 def salary(size):
     c = []
     for d in vacancys.find({
-                            '$and': [
-                                {"Salary_min": {'$lte': size}},
+                            '$or': [
+                                {"Salary_min": {'$gte': size}},
                                 {"Salary_max": {'$gte': size}}
                                 ]
                             }):
